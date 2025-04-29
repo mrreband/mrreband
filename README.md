@@ -1,10 +1,4 @@
-### :shipit: :wave: mr.Reband
-
----
-
-## About
-
-Dev by day, collaborate, make music, meditate.
+:shipit: Collaborate, take a break, make music, meditate.
 
 <!-- ![FHIR](https://raw.githubusercontent.com/HL7/fhir/03356ced0fc8f399bccf07d128404469bb9c3d5c/images/icon-pack/LOGO_FHIR.svg) -->
 
