@@ -42,6 +42,4 @@ Collaborate, take a break, make music, meditate.
 
 :notes: piano project: https://mr.reband.io/
 
----
-
 :mailbox: email: [mr@reband.org](mailto:mr@reband.org)
