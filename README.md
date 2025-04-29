@@ -1,4 +1,4 @@
-:shipit: Collaborate, take a break, make music, meditate.
+Collaborate, take a break, make music, meditate.
 
 <!-- ![FHIR](https://raw.githubusercontent.com/HL7/fhir/03356ced0fc8f399bccf07d128404469bb9c3d5c/images/icon-pack/LOGO_FHIR.svg) -->
 
@@ -35,7 +35,6 @@
   ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 
 - AI
 
