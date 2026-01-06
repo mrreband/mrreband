@@ -9,6 +9,7 @@ Collaborate, take a break, make music, meditate.
 - ![DB](https://img.shields.io/badge/db-777777) ![:](https://img.shields.io/badge/:-000000)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white)
   ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+  ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
