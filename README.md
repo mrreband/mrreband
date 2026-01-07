@@ -34,9 +34,9 @@ Collaborate, take a break, make music, meditate.
   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white)
 
 - ![AI](https://img.shields.io/badge/ai-777777) ![:](https://img.shields.io/badge/:-000000)
+  ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
   ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)
   ![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)
-  ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
   ![GitHub Copilot](https://img.shields.io/badge/Copilot-000?logo=githubcopilot&logoColor=fff)
 
 ---
